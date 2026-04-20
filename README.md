@@ -29,7 +29,7 @@ O ficheiro student_performance.csv inclui 500 registos com as seguintes dimensõ
 O fluxo de trabalho estabelecido demonstra a importância da limpeza técnica antes da visualização. Os resultados iniciais permitem identificar quais os fatores que apresentam maior correlação com a nota final, servindo de base para a construção de um modelo preditivo de classificação na próxima fase do projeto.
 
 ---
-Autor: [ALFREDO KAHAMBA FRANCISCO]
+Autor: ALFREDO KAHAMBA FRANCISCO
 Contacto: [www.linkedin.com/in/alfredo-francisco-103a0b334]
 
 ---
