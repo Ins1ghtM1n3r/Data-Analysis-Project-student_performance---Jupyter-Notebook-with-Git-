@@ -17,7 +17,7 @@ O ficheiro student_performance.csv inclui 500 registos com as seguintes dimensõ
 * Linguagem: Python 3.12
 * Bibliotecas de Dados: Pandas para manipulação e limpeza, NumPy para operações matemáticas.
 * Visualização: Plotly Express para a criação de gráficos interativos e dinâmicos.
-* Infraestrutura: Docker e Docker-Compose para gestão de contentores.
+* Infraestrutura: Visual Studio Code
 * Controlo de Versão: Git.
 
 ## Metodologia Aplicada
